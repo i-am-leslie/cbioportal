@@ -15,7 +15,7 @@ import java.util.List;
  * Use case for retrieving List of Mutation data 
  *
  * <p> This use case encapsulates the business logic for fetching mutation data based on the provided
- * MutationSearchCriteria. it routes requests to the appropriate repository method 
+ * MutationQueryOptions. it routes requests to the appropriate repository method 
  * <p>Supported projection types:
  *
  *  <ul>
